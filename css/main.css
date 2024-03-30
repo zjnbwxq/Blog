@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#start-game {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+}
